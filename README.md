@@ -1,12 +1,26 @@
-# GTA 6 Clipper — "Jason, the plane, and make.fun"
+# gta6-clipper-01
+
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/krakennew/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/krakennew/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+An AI agent cuts Rockstar's GTA VI Trailer 2 into a vertical Short that pitches make.fun — Jason on his motorcycle outrunning a cargo plane, then the make.fun pitch on screen. Video: https://www.youtube.com/shorts/8gvqX_j_HpA
+
+## Run it
+
+```sh
+MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+## The clip
 
 Entry for the make.fun bounty "Clip GTA 6 for the most YouTube views"
 (`gta6-clipper-01`, $500, top 20 paid). The entry is the video itself: a
 public YouTube Short cut from Rockstar Games' official GTA VI Trailer 2,
 which hooks the viewer with the trailer's most iconic action shot and then
 pitches make.fun.
-
-## The clip
 
 `clip.mp4` — 27 seconds, vertical 1080x1920, H.264 + AAC (16.8 MB). The
 rendered clip file lives next to this repo for upload and is deliberately
@@ -129,3 +143,7 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 - No footage except Rockstar's official GTA VI Trailer 2 was used. No views
   were bought or botted; the video is published public and stays public
   until the results are out.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=szzykaht&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
